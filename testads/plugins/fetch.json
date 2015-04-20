@@ -1,0 +1,51 @@
+{
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "org.apache.cordova.dialogs": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.dialogs"
+        }
+    },
+    "org.apache.cordova.splashscreen": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.splashscreen"
+        }
+    },
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.console"
+        }
+    },
+    "com.admob.google": {
+        "source": {
+            "type": "registry",
+            "id": "com.admob.google"
+        }
+    },
+    "com.connectivity.monitor": {
+        "source": {
+            "type": "registry",
+            "id": "com.connectivity.monitor"
+        }
+    },
+    "android.support.v4": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/appfeel/cordova-plugin-android-support-v4",
+            "subdir": "."
+        }
+    },
+    "com.google.play.services": {
+        "source": {
+            "type": "registry",
+            "id": "com.google.play.services"
+        }
+    }
+}
